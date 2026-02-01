@@ -230,7 +230,7 @@ book:
   page-navigation: true
   page-footer: 
     background: light
-    left: "Copyright 2025, Matthew D. Grossi"
+    left: "Copyright 2026, Matthew D. Grossi"
     right:
       - icon: github
         href: https://github.com/
