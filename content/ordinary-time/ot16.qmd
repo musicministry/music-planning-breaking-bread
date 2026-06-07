@@ -1,5 +1,5 @@
 ---
-title: "NTH SUNDAY IN ORDINARY TIME"
+title: "SIXTEENTH SUNDAY IN ORDINARY TIME"
 ---
 
 ```{python}
